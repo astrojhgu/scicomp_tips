@@ -1,3 +1,5 @@
+[Linear index upper triangular matrix](https://stackoverflow.com/questions/27086195/linear-index-upper-triangular-matrix)
+
 ```
 0  a0  a1  a2  a3
 0   0  a4  a5  a6
@@ -19,6 +21,7 @@ from (i, j) to k
 k = (n*(n-1)/2) - (n-i)*((n-i)-1)/2 + j - i - 1
 ```
 
+[Mapping elements in 2D upper triangle and lower triangle to linear structure](https://stackoverflow.com/questions/4803180/mapping-elements-in-2d-upper-triangle-and-lower-triangle-to-linear-structure)
 
 ```
     0  1  2  3  4  5  6
